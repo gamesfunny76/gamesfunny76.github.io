@@ -1,0 +1,12 @@
+{
+"companyName": "Yohoho Games",
+"productName": "Catch the Candy",
+"dataUrl": "Catch the Candy POKI.data.unityweb",
+"wasmCodeUrl": "Catch the Candy POKI.wasm.code.unityweb",
+"wasmFrameworkUrl": "Catch the Candy POKI.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#000000"
+}
